@@ -1,0 +1,731 @@
+Date,Customer_ID,City,Category,Product,Unit Price,Quantity,Sales Amount,Used_Discount,Discount_Amount
+1/1/2023,32,Riyadh,coffee beans,Colombian,40,14,560,FALSE,0
+1/2/2023,49,Abha,coffee beans,Costa Rica,35,17,595,FALSE,0
+1/3/2023,75,Tabuk,coffee beans,Costa Rica,35,19,665,FALSE,0
+1/4/2023,80,Abha,coffee beans,Ethiopian,45,1,45,FALSE,0
+1/5/2023,78,Hail,coffee beans,Colombian,40,46,1840,TRUE,419.9136117
+1/6/2023,1,Khobar,coffee beans,Colombian,40,32,1280,TRUE,319.9368819
+1/7/2023,95,Buraidah,coffee beans,Brazilian,30,1,30,TRUE,212.2914492
+1/8/2023,27,Medina,coffee beans,Colombian,40,33,1320,FALSE,0
+1/9/2023,73,Hail,coffee beans,Guatemala,35,47,1645,FALSE,0
+1/10/2023,82,Dammam,coffee beans,Costa Rica,35,4,140,FALSE,0
+1/11/2023,63,Tabuk,coffee beans,Guatemala,35,6,210,FALSE,0
+1/12/2023,3,Medina,coffee beans,Brazilian,30,14,420,FALSE,0
+1/13/2023,71,Dammam,coffee beans,Costa Rica,35,47,1645,FALSE,0
+1/14/2023,50,Jeddah,coffee beans,Costa Rica,35,47,1645,FALSE,0
+1/15/2023,62,Mecca,coffee beans,Brazilian,30,2,60,FALSE,0
+1/16/2023,36,Jeddah,coffee beans,Ethiopian,45,49,2205,TRUE,332.5075144
+1/17/2023,61,Khobar,coffee beans,Colombian,40,4,160,TRUE,252.8003002
+1/18/2023,58,Dammam,coffee beans,Colombian,40,45,1800,FALSE,0
+1/19/2023,3,Jeddah,coffee beans,Ethiopian,45,48,2160,FALSE,0
+1/20/2023,2,Riyadh,coffee beans,Ethiopian,45,18,810,TRUE,283.3784352
+1/21/2023,99,Mecca,coffee beans,Ethiopian,45,41,1845,FALSE,0
+1/22/2023,98,Hail,coffee beans,Brazilian,30,7,210,FALSE,0
+1/23/2023,84,Medina,coffee beans,Brazilian,30,48,1440,FALSE,0
+1/24/2023,96,Hail,coffee beans,Colombian,40,21,840,FALSE,0
+1/25/2023,37,Tabuk,coffee beans,Brazilian,30,2,60,TRUE,266.0868453
+1/26/2023,27,Tabuk,coffee beans,Costa Rica,35,18,630,FALSE,0
+1/27/2023,44,Medina,coffee beans,Costa Rica,35,42,1470,FALSE,0
+1/28/2023,32,Medina,coffee beans,Costa Rica,35,29,1015,FALSE,0
+1/29/2023,39,Jeddah,coffee beans,Guatemala,35,11,385,TRUE,114.5134872
+1/30/2023,47,Khobar,coffee beans,Guatemala,35,5,175,FALSE,0
+1/31/2023,12,Tabuk,coffee beans,Costa Rica,35,3,105,FALSE,0
+2/1/2023,60,Medina,coffee beans,Costa Rica,35,44,1540,FALSE,0
+2/2/2023,86,Riyadh,coffee beans,Ethiopian,45,18,810,TRUE,41.52599446
+2/3/2023,69,Hail,coffee beans,Colombian,40,24,960,FALSE,0
+2/4/2023,82,Riyadh,coffee beans,Colombian,40,35,1400,FALSE,0
+2/5/2023,37,Hail,coffee beans,Brazilian,30,11,330,FALSE,0
+2/6/2023,57,Hail,coffee beans,Guatemala,35,29,1015,TRUE,136.840923
+2/7/2023,83,Jeddah,coffee beans,Colombian,40,4,160,FALSE,0
+2/8/2023,49,Riyadh,coffee beans,Colombian,40,17,680,TRUE,350.7368821
+2/9/2023,86,Jeddah,coffee beans,Brazilian,30,16,480,TRUE,438.4825016
+2/10/2023,15,Riyadh,coffee beans,Costa Rica,35,38,1330,FALSE,0
+2/11/2023,2,Dammam,coffee beans,Colombian,40,43,1720,FALSE,0
+2/12/2023,18,Riyadh,coffee beans,Brazilian,30,36,1080,FALSE,0
+2/13/2023,91,Riyadh,coffee beans,Colombian,40,34,1360,FALSE,0
+2/14/2023,44,Mecca,coffee beans,Colombian,40,10,400,TRUE,22.9479733
+2/15/2023,17,Abha,coffee beans,Brazilian,30,48,1440,FALSE,0
+2/16/2023,29,Jeddah,coffee beans,Colombian,40,17,680,TRUE,233.2836077
+2/17/2023,45,Jeddah,coffee beans,Guatemala,35,46,1610,FALSE,0
+2/18/2023,43,Mecca,coffee beans,Costa Rica,35,13,455,FALSE,0
+2/19/2023,38,Hail,coffee beans,Brazilian,30,19,570,TRUE,274.444811
+2/20/2023,61,Tabuk,coffee beans,Colombian,40,36,1440,TRUE,479.7307706
+2/21/2023,97,Dammam,coffee beans,Guatemala,35,36,1260,TRUE,339.1749506
+2/22/2023,96,Khobar,coffee beans,Ethiopian,45,15,675,TRUE,54.59872103
+2/23/2023,94,Dammam,coffee beans,Guatemala,35,2,70,TRUE,463.1576088
+2/24/2023,77,Tabuk,coffee beans,Colombian,40,31,1240,TRUE,403.0815051
+2/25/2023,27,Buraidah,coffee beans,Brazilian,30,33,990,TRUE,494.8249138
+2/26/2023,94,Medina,coffee beans,Colombian,40,27,1080,FALSE,0
+2/27/2023,21,Mecca,coffee beans,Ethiopian,45,23,1035,TRUE,109.606655
+2/28/2023,99,Abha,coffee beans,Ethiopian,45,6,270,TRUE,486.6621845
+3/1/2023,80,Dammam,coffee beans,Brazilian,30,33,990,TRUE,147.0670704
+3/2/2023,13,Khobar,coffee beans,Guatemala,35,29,1015,FALSE,0
+3/3/2023,13,Jeddah,coffee beans,Colombian,40,17,680,FALSE,0
+3/4/2023,18,Jeddah,coffee beans,Ethiopian,45,41,1845,TRUE,186.7188676
+3/5/2023,89,Buraidah,coffee beans,Ethiopian,45,46,2070,TRUE,346.8198617
+3/6/2023,25,Hail,coffee beans,Guatemala,35,21,735,FALSE,0
+3/7/2023,94,Riyadh,coffee beans,Costa Rica,35,29,1015,FALSE,0
+3/8/2023,2,Mecca,coffee beans,Costa Rica,35,32,1120,TRUE,390.8779246
+3/9/2023,16,Jeddah,coffee beans,Ethiopian,45,40,1800,FALSE,0
+3/10/2023,77,Medina,coffee beans,Colombian,40,3,120,TRUE,243.369332
+3/11/2023,65,Medina,coffee beans,Guatemala,35,29,1015,TRUE,436.9062474
+3/12/2023,71,Khobar,coffee beans,Ethiopian,45,11,495,TRUE,192.7099637
+3/13/2023,51,Abha,coffee beans,Ethiopian,45,20,900,FALSE,0
+3/14/2023,76,Medina,coffee beans,Ethiopian,45,38,1710,FALSE,0
+3/15/2023,77,Dammam,coffee beans,Costa Rica,35,46,1610,FALSE,0
+3/16/2023,50,Medina,coffee beans,Brazilian,30,3,90,FALSE,0
+3/17/2023,57,Hail,coffee beans,Brazilian,30,42,1260,TRUE,439.282275
+3/18/2023,45,Medina,coffee beans,Colombian,40,46,1840,TRUE,362.8300162
+3/19/2023,66,Jeddah,coffee beans,Colombian,40,25,1000,TRUE,329.2907404
+3/20/2023,53,Dammam,coffee beans,Guatemala,35,36,1260,TRUE,162.1184919
+3/21/2023,60,Tabuk,coffee beans,Colombian,40,28,1120,FALSE,0
+3/22/2023,24,Dammam,coffee beans,Costa Rica,35,48,1680,TRUE,281.5953455
+3/23/2023,16,Medina,coffee beans,Guatemala,35,47,1645,TRUE,445.2386976
+3/24/2023,68,Riyadh,coffee beans,Ethiopian,45,40,1800,FALSE,0
+3/25/2023,88,Abha,coffee beans,Brazilian,30,31,930,TRUE,98.48505505
+3/26/2023,55,Khobar,coffee beans,Ethiopian,45,42,1890,TRUE,325.5741856
+3/27/2023,62,Medina,coffee beans,Colombian,40,21,840,FALSE,0
+3/28/2023,5,Jeddah,coffee beans,Brazilian,30,39,1170,TRUE,161.9659724
+3/29/2023,61,Khobar,coffee beans,Costa Rica,35,21,735,TRUE,360.9313494
+3/30/2023,41,Jeddah,coffee beans,Costa Rica,35,32,1120,FALSE,0
+3/31/2023,97,Jeddah,coffee beans,Costa Rica,35,33,1155,TRUE,80.43149451
+4/1/2023,45,Dammam,coffee beans,Guatemala,35,35,1225,TRUE,412.3704138
+4/2/2023,81,Mecca,coffee beans,Brazilian,30,46,1380,FALSE,0
+4/3/2023,64,Tabuk,coffee beans,Costa Rica,35,27,945,TRUE,49.11849161
+4/4/2023,24,Medina,coffee beans,Guatemala,35,34,1190,FALSE,0
+4/5/2023,91,Riyadh,coffee beans,Costa Rica,35,43,1505,TRUE,457.5281401
+4/6/2023,40,Abha,coffee beans,Brazilian,30,12,360,FALSE,0
+4/7/2023,67,Medina,coffee beans,Costa Rica,35,45,1575,FALSE,0
+4/8/2023,76,Buraidah,coffee beans,Costa Rica,35,25,875,TRUE,269.1310867
+4/9/2023,72,Buraidah,coffee beans,Guatemala,35,26,910,TRUE,377.4512917
+4/10/2023,71,Buraidah,coffee beans,Ethiopian,45,20,900,TRUE,442.7890682
+4/11/2023,76,Medina,coffee beans,Guatemala,35,35,1225,FALSE,0
+4/12/2023,57,Tabuk,coffee beans,Guatemala,35,28,980,FALSE,0
+4/13/2023,75,Tabuk,coffee beans,Colombian,40,39,1560,TRUE,104.8878381
+4/14/2023,45,Jeddah,coffee beans,Costa Rica,35,41,1435,TRUE,449.7429243
+4/15/2023,88,Mecca,coffee beans,Guatemala,35,4,140,TRUE,337.6198309
+4/16/2023,90,Riyadh,coffee beans,Costa Rica,35,32,1120,TRUE,463.5762405
+4/17/2023,18,Mecca,coffee beans,Costa Rica,35,28,980,FALSE,0
+4/18/2023,66,Buraidah,coffee beans,Ethiopian,45,3,135,FALSE,0
+4/19/2023,73,Jeddah,coffee beans,Colombian,40,15,600,FALSE,0
+4/20/2023,13,Mecca,coffee beans,Guatemala,35,38,1330,FALSE,0
+4/21/2023,70,Buraidah,coffee beans,Costa Rica,35,4,140,FALSE,0
+4/22/2023,65,Buraidah,coffee beans,Brazilian,30,30,900,FALSE,0
+4/23/2023,11,Buraidah,coffee beans,Colombian,40,17,680,FALSE,0
+4/24/2023,62,Medina,coffee beans,Costa Rica,35,37,1295,TRUE,280.7440316
+4/25/2023,47,Riyadh,coffee beans,Colombian,40,40,1600,FALSE,0
+4/26/2023,29,Abha,coffee beans,Brazilian,30,3,90,FALSE,0
+4/27/2023,52,Buraidah,coffee beans,Ethiopian,45,6,270,TRUE,202.6439725
+4/28/2023,74,Dammam,coffee beans,Guatemala,35,9,315,FALSE,0
+4/29/2023,92,Buraidah,coffee beans,Colombian,40,27,1080,TRUE,390.1357117
+4/30/2023,4,Hail,coffee beans,Guatemala,35,7,245,TRUE,407.3903504
+5/1/2023,4,Mecca,coffee beans,Brazilian,30,48,1440,FALSE,0
+5/2/2023,5,Medina,coffee beans,Costa Rica,35,2,70,FALSE,0
+5/3/2023,15,Dammam,coffee beans,Costa Rica,35,19,665,FALSE,0
+5/4/2023,76,Tabuk,coffee beans,Guatemala,35,37,1295,TRUE,230.1734655
+5/5/2023,7,Buraidah,coffee beans,Costa Rica,35,1,35,FALSE,0
+5/6/2023,25,Hail,coffee beans,Guatemala,35,32,1120,TRUE,104.7104369
+5/7/2023,44,Buraidah,coffee beans,Ethiopian,45,8,360,FALSE,0
+5/8/2023,53,Buraidah,coffee beans,Brazilian,30,6,180,TRUE,270.4329316
+5/9/2023,7,Khobar,coffee beans,Costa Rica,35,30,1050,FALSE,0
+5/10/2023,69,Hail,coffee beans,Costa Rica,35,3,105,FALSE,0
+5/11/2023,91,Jeddah,coffee beans,Costa Rica,35,42,1470,FALSE,0
+5/12/2023,11,Jeddah,coffee beans,Guatemala,35,29,1015,FALSE,0
+5/13/2023,57,Hail,coffee beans,Colombian,40,27,1080,FALSE,0
+5/14/2023,53,Mecca,coffee beans,Costa Rica,35,21,735,TRUE,461.7368602
+5/15/2023,90,Hail,coffee beans,Guatemala,35,13,455,TRUE,406.1742452
+5/16/2023,100,Dammam,coffee beans,Costa Rica,35,25,875,FALSE,0
+5/17/2023,28,Buraidah,coffee beans,Guatemala,35,47,1645,TRUE,366.1590137
+5/18/2023,72,Khobar,coffee beans,Costa Rica,35,4,140,FALSE,0
+5/19/2023,79,Abha,coffee beans,Colombian,40,8,320,FALSE,0
+5/20/2023,81,Buraidah,coffee beans,Brazilian,30,45,1350,FALSE,0
+5/21/2023,62,Buraidah,coffee beans,Ethiopian,45,21,945,TRUE,230.4802679
+5/22/2023,13,Hail,coffee beans,Ethiopian,45,33,1485,FALSE,0
+5/23/2023,40,Tabuk,coffee beans,Colombian,40,24,960,FALSE,0
+5/24/2023,29,Riyadh,coffee beans,Brazilian,30,46,1380,FALSE,0
+5/25/2023,83,Hail,coffee beans,Brazilian,30,47,1410,FALSE,0
+5/26/2023,40,Medina,coffee beans,Costa Rica,35,38,1330,TRUE,75.13526854
+5/27/2023,58,Abha,coffee beans,Ethiopian,45,20,900,TRUE,177.8790057
+5/28/2023,53,Riyadh,coffee beans,Ethiopian,45,20,900,TRUE,396.6149649
+5/29/2023,45,Hail,coffee beans,Costa Rica,35,36,1260,TRUE,85.49126788
+5/30/2023,4,Abha,coffee beans,Costa Rica,35,49,1715,FALSE,0
+5/31/2023,75,Mecca,coffee beans,Guatemala,35,13,455,TRUE,474.9852904
+6/1/2023,59,Buraidah,coffee beans,Brazilian,30,41,1230,FALSE,0
+6/2/2023,25,Khobar,coffee beans,Guatemala,35,15,525,TRUE,121.7730948
+6/3/2023,67,Mecca,coffee beans,Guatemala,35,24,840,FALSE,0
+6/4/2023,4,Hail,coffee beans,Brazilian,30,40,1200,FALSE,0
+6/5/2023,86,Abha,coffee beans,Costa Rica,35,26,910,TRUE,352.0703801
+6/6/2023,72,Jeddah,coffee beans,Colombian,40,33,1320,FALSE,0
+6/7/2023,51,Khobar,coffee beans,Ethiopian,45,18,810,TRUE,362.5850434
+6/8/2023,60,Jeddah,coffee beans,Brazilian,30,24,720,TRUE,167.7957884
+6/9/2023,79,Buraidah,coffee beans,Colombian,40,47,1880,TRUE,118.0571131
+6/10/2023,100,Riyadh,coffee beans,Costa Rica,35,31,1085,TRUE,135.2621404
+6/11/2023,91,Tabuk,coffee beans,Costa Rica,35,21,735,FALSE,0
+6/12/2023,22,Riyadh,coffee beans,Guatemala,35,46,1610,FALSE,0
+6/13/2023,19,Mecca,coffee beans,Brazilian,30,16,480,TRUE,307.8581613
+6/14/2023,12,Khobar,coffee beans,Brazilian,30,47,1410,TRUE,187.9447836
+6/15/2023,81,Riyadh,coffee beans,Guatemala,35,23,805,FALSE,0
+6/16/2023,67,Hail,coffee beans,Colombian,40,21,840,FALSE,0
+6/17/2023,79,Khobar,coffee beans,Colombian,40,42,1680,FALSE,0
+6/18/2023,47,Tabuk,coffee beans,Guatemala,35,18,630,TRUE,318.811642
+6/19/2023,96,Mecca,coffee beans,Guatemala,35,21,735,TRUE,60.61442961
+6/20/2023,30,Mecca,coffee beans,Colombian,40,46,1840,TRUE,463.7709779
+6/21/2023,77,Mecca,coffee beans,Brazilian,30,29,870,FALSE,0
+6/22/2023,66,Khobar,coffee beans,Guatemala,35,5,175,FALSE,0
+6/23/2023,90,Hail,coffee beans,Guatemala,35,26,910,TRUE,185.8916721
+6/24/2023,28,Hail,coffee beans,Colombian,40,18,720,FALSE,0
+6/25/2023,83,Tabuk,coffee beans,Colombian,40,25,1000,TRUE,304.039506
+6/26/2023,29,Buraidah,coffee beans,Brazilian,30,21,630,FALSE,0
+6/27/2023,79,Khobar,coffee beans,Colombian,40,13,520,TRUE,37.26080371
+6/28/2023,81,Buraidah,coffee beans,Guatemala,35,41,1435,FALSE,0
+6/29/2023,82,Hail,coffee beans,Guatemala,35,49,1715,FALSE,0
+6/30/2023,39,Khobar,coffee beans,Ethiopian,45,31,1395,FALSE,0
+7/1/2023,28,Mecca,coffee beans,Costa Rica,35,22,770,TRUE,451.6454895
+7/2/2023,79,Khobar,coffee beans,Brazilian,30,19,570,FALSE,0
+7/3/2023,72,Dammam,coffee beans,Guatemala,35,27,945,TRUE,141.5319691
+7/4/2023,51,Dammam,coffee beans,Colombian,40,37,1480,FALSE,0
+7/5/2023,52,Buraidah,coffee beans,Colombian,40,40,1600,TRUE,56.2353515
+7/6/2023,97,Tabuk,coffee beans,Colombian,40,44,1760,TRUE,191.4070241
+7/7/2023,25,Buraidah,coffee beans,Costa Rica,35,15,525,TRUE,476.7653114
+7/8/2023,90,Tabuk,coffee beans,Colombian,40,7,280,FALSE,0
+7/9/2023,25,Abha,coffee beans,Costa Rica,35,20,700,FALSE,0
+7/10/2023,6,Jeddah,coffee beans,Costa Rica,35,37,1295,FALSE,0
+7/11/2023,19,Khobar,coffee beans,Brazilian,30,5,150,FALSE,0
+7/12/2023,74,Buraidah,coffee beans,Brazilian,30,10,300,TRUE,497.6266477
+7/13/2023,13,Hail,coffee beans,Colombian,40,15,600,TRUE,76.97587804
+7/14/2023,32,Riyadh,coffee beans,Colombian,40,44,1760,FALSE,0
+7/15/2023,35,Hail,coffee beans,Guatemala,35,47,1645,TRUE,439.9374125
+7/16/2023,34,Buraidah,coffee beans,Guatemala,35,48,1680,TRUE,292.0985598
+7/17/2023,99,Mecca,coffee beans,Colombian,40,49,1960,TRUE,403.5976402
+7/18/2023,62,Dammam,coffee beans,Ethiopian,45,29,1305,FALSE,0
+7/19/2023,54,Hail,coffee beans,Colombian,40,3,120,FALSE,0
+7/20/2023,56,Hail,coffee beans,Costa Rica,35,19,665,TRUE,220.3887246
+7/21/2023,33,Buraidah,coffee beans,Costa Rica,35,29,1015,TRUE,490.1520363
+7/22/2023,66,Mecca,coffee beans,Guatemala,35,18,630,FALSE,0
+7/23/2023,4,Riyadh,coffee beans,Guatemala,35,4,140,TRUE,58.39926751
+7/24/2023,21,Abha,coffee beans,Ethiopian,45,25,1125,FALSE,0
+7/25/2023,95,Jeddah,coffee beans,Brazilian,30,41,1230,TRUE,15.12530232
+7/26/2023,50,Jeddah,coffee beans,Ethiopian,45,25,1125,TRUE,373.9744124
+7/27/2023,17,Riyadh,coffee beans,Ethiopian,45,3,135,FALSE,0
+7/28/2023,75,Riyadh,coffee beans,Costa Rica,35,39,1365,FALSE,0
+7/29/2023,28,Tabuk,coffee beans,Brazilian,30,45,1350,FALSE,0
+7/30/2023,68,Khobar,coffee beans,Colombian,40,46,1840,TRUE,446.7431927
+7/31/2023,65,Medina,coffee beans,Costa Rica,35,6,210,TRUE,115.7004179
+8/1/2023,47,Hail,coffee beans,Colombian,40,31,1240,TRUE,473.0765723
+8/2/2023,61,Abha,coffee beans,Costa Rica,35,41,1435,FALSE,0
+8/3/2023,4,Hail,coffee beans,Colombian,40,22,880,TRUE,15.49947697
+8/4/2023,7,Medina,coffee beans,Brazilian,30,27,810,FALSE,0
+8/5/2023,66,Dammam,coffee beans,Ethiopian,45,35,1575,TRUE,16.47347339
+8/6/2023,73,Jeddah,coffee beans,Colombian,40,28,1120,FALSE,0
+8/7/2023,51,Jeddah,coffee beans,Costa Rica,35,38,1330,FALSE,0
+8/8/2023,83,Medina,coffee beans,Guatemala,35,12,420,TRUE,300.0502412
+8/9/2023,43,Tabuk,coffee beans,Guatemala,35,40,1400,TRUE,199.3912788
+8/10/2023,8,Abha,coffee beans,Guatemala,35,23,805,TRUE,154.067973
+8/11/2023,27,Khobar,coffee beans,Guatemala,35,21,735,FALSE,0
+8/12/2023,93,Jeddah,coffee beans,Guatemala,35,4,140,FALSE,0
+8/13/2023,54,Riyadh,coffee beans,Brazilian,30,25,750,FALSE,0
+8/14/2023,83,Khobar,coffee beans,Colombian,40,33,1320,TRUE,144.749694
+8/15/2023,52,Buraidah,coffee beans,Brazilian,30,33,990,TRUE,365.5862582
+8/16/2023,88,Jeddah,coffee beans,Costa Rica,35,43,1505,TRUE,417.5001466
+8/17/2023,81,Medina,coffee beans,Costa Rica,35,47,1645,FALSE,0
+8/18/2023,68,Abha,coffee beans,Guatemala,35,8,280,FALSE,0
+8/19/2023,17,Riyadh,coffee beans,Costa Rica,35,23,805,FALSE,0
+8/20/2023,37,Tabuk,coffee beans,Brazilian,30,41,1230,FALSE,0
+8/21/2023,88,Mecca,coffee beans,Guatemala,35,30,1050,FALSE,0
+8/22/2023,24,Abha,coffee beans,Colombian,40,31,1240,TRUE,375.5432735
+8/23/2023,70,Jeddah,coffee beans,Guatemala,35,26,910,FALSE,0
+8/24/2023,2,Abha,coffee beans,Ethiopian,45,39,1755,TRUE,359.6636093
+8/25/2023,47,Khobar,coffee beans,Brazilian,30,30,900,TRUE,84.14205134
+8/26/2023,78,Hail,coffee beans,Brazilian,30,39,1170,FALSE,0
+8/27/2023,30,Tabuk,coffee beans,Costa Rica,35,18,630,TRUE,343.7221864
+8/28/2023,25,Khobar,coffee beans,Guatemala,35,15,525,FALSE,0
+8/29/2023,30,Dammam,coffee beans,Ethiopian,45,25,1125,TRUE,186.7418982
+8/30/2023,14,Buraidah,coffee beans,Guatemala,35,5,175,TRUE,110.2783353
+8/31/2023,38,Khobar,coffee beans,Brazilian,30,40,1200,TRUE,159.3736332
+9/1/2023,66,Mecca,coffee beans,Colombian,40,49,1960,FALSE,0
+9/2/2023,60,Dammam,coffee beans,Brazilian,30,42,1260,FALSE,0
+9/3/2023,5,Hail,coffee beans,Ethiopian,45,33,1485,FALSE,0
+9/4/2023,22,Dammam,coffee beans,Colombian,40,24,960,FALSE,0
+9/5/2023,47,Mecca,coffee beans,Guatemala,35,22,770,TRUE,77.87802996
+9/6/2023,2,Dammam,coffee beans,Ethiopian,45,4,180,FALSE,0
+9/7/2023,23,Khobar,coffee beans,Colombian,40,8,320,FALSE,0
+9/8/2023,51,Tabuk,coffee beans,Costa Rica,35,23,805,FALSE,0
+9/9/2023,82,Dammam,coffee beans,Brazilian,30,10,300,TRUE,475.7343606
+9/10/2023,32,Khobar,coffee beans,Brazilian,30,7,210,FALSE,0
+9/11/2023,49,Jeddah,coffee beans,Guatemala,35,34,1190,FALSE,0
+9/12/2023,76,Riyadh,coffee beans,Costa Rica,35,5,175,TRUE,401.5668005
+9/13/2023,53,Riyadh,coffee beans,Brazilian,30,38,1140,TRUE,119.7483525
+9/14/2023,5,Abha,coffee beans,Costa Rica,35,23,805,TRUE,139.8895628
+9/15/2023,98,Buraidah,coffee beans,Ethiopian,45,2,90,TRUE,45.37720029
+9/16/2023,8,Jeddah,coffee beans,Guatemala,35,45,1575,FALSE,0
+9/17/2023,22,Dammam,coffee beans,Ethiopian,45,6,270,TRUE,327.5240221
+9/18/2023,17,Riyadh,coffee beans,Costa Rica,35,12,420,FALSE,0
+9/19/2023,71,Dammam,coffee beans,Costa Rica,35,46,1610,TRUE,479.1404697
+9/20/2023,83,Mecca,coffee beans,Brazilian,30,14,420,TRUE,291.4406824
+9/21/2023,90,Buraidah,coffee beans,Ethiopian,45,40,1800,TRUE,249.0427037
+9/22/2023,40,Tabuk,coffee beans,Brazilian,30,44,1320,FALSE,0
+9/23/2023,2,Abha,coffee beans,Brazilian,30,31,930,FALSE,0
+9/24/2023,89,Khobar,coffee beans,Guatemala,35,4,140,TRUE,239.4337131
+9/25/2023,61,Mecca,coffee beans,Ethiopian,45,24,1080,FALSE,0
+9/26/2023,84,Khobar,coffee beans,Brazilian,30,42,1260,TRUE,100.5695786
+9/27/2023,65,Dammam,coffee beans,Ethiopian,45,14,630,TRUE,409.7254197
+9/28/2023,3,Mecca,coffee beans,Ethiopian,45,49,2205,TRUE,131.1288835
+9/29/2023,10,Mecca,coffee beans,Costa Rica,35,38,1330,FALSE,0
+9/30/2023,4,Dammam,coffee beans,Costa Rica,35,10,350,FALSE,0
+10/1/2023,67,Tabuk,coffee beans,Costa Rica,35,17,595,TRUE,411.2133778
+10/2/2023,31,Mecca,coffee beans,Colombian,40,3,120,FALSE,0
+10/3/2023,36,Medina,coffee beans,Costa Rica,35,33,1155,TRUE,40.67432484
+10/4/2023,25,Dammam,coffee beans,Costa Rica,35,41,1435,FALSE,0
+10/5/2023,39,Khobar,coffee beans,Guatemala,35,43,1505,FALSE,0
+10/6/2023,11,Khobar,coffee beans,Colombian,40,34,1360,FALSE,0
+10/7/2023,3,Hail,coffee beans,Colombian,40,7,280,FALSE,0
+10/8/2023,40,Khobar,coffee beans,Costa Rica,35,4,140,TRUE,267.3909263
+10/9/2023,6,Tabuk,coffee beans,Guatemala,35,3,105,TRUE,231.7957534
+10/10/2023,41,Hail,coffee beans,Guatemala,35,46,1610,TRUE,90.08058049
+10/11/2023,74,Riyadh,coffee beans,Costa Rica,35,35,1225,TRUE,408.9632475
+10/12/2023,55,Medina,coffee beans,Brazilian,30,27,810,TRUE,178.9487647
+10/13/2023,67,Mecca,coffee beans,Ethiopian,45,37,1665,FALSE,0
+10/14/2023,75,Khobar,coffee beans,Brazilian,30,41,1230,TRUE,32.65770744
+10/15/2023,42,Riyadh,coffee beans,Colombian,40,32,1280,TRUE,335.4860127
+10/16/2023,89,Mecca,coffee beans,Guatemala,35,26,910,FALSE,0
+10/17/2023,23,Jeddah,coffee beans,Ethiopian,45,34,1530,FALSE,0
+10/18/2023,5,Buraidah,coffee beans,Colombian,40,9,360,TRUE,51.95060411
+10/19/2023,32,Khobar,coffee beans,Ethiopian,45,15,675,FALSE,0
+10/20/2023,26,Dammam,coffee beans,Brazilian,30,15,450,FALSE,0
+10/21/2023,97,Buraidah,coffee beans,Colombian,40,27,1080,FALSE,0
+10/22/2023,91,Jeddah,coffee beans,Ethiopian,45,28,1260,FALSE,0
+10/23/2023,48,Medina,coffee beans,Guatemala,35,17,595,TRUE,188.8882093
+10/24/2023,53,Khobar,coffee beans,Costa Rica,35,41,1435,FALSE,0
+10/25/2023,92,Abha,coffee beans,Colombian,40,17,680,TRUE,420.725844
+10/26/2023,59,Medina,coffee beans,Colombian,40,43,1720,FALSE,0
+10/27/2023,36,Dammam,coffee beans,Colombian,40,1,40,TRUE,67.3473053
+10/28/2023,57,Buraidah,coffee beans,Guatemala,35,10,350,TRUE,46.52543053
+10/29/2023,10,Tabuk,coffee beans,Brazilian,30,5,150,FALSE,0
+10/30/2023,82,Abha,coffee beans,Guatemala,35,13,455,FALSE,0
+10/31/2023,60,Dammam,coffee beans,Guatemala,35,42,1470,FALSE,0
+11/1/2023,86,Tabuk,coffee beans,Costa Rica,35,31,1085,FALSE,0
+11/2/2023,15,Hail,coffee beans,Guatemala,35,14,490,TRUE,202.3026682
+11/3/2023,31,Mecca,coffee beans,Ethiopian,45,9,405,FALSE,0
+11/4/2023,29,Hail,coffee beans,Brazilian,30,3,90,TRUE,169.3070943
+11/5/2023,22,Mecca,coffee beans,Brazilian,30,47,1410,TRUE,107.0862904
+11/6/2023,49,Tabuk,coffee beans,Colombian,40,28,1120,FALSE,0
+11/7/2023,34,Riyadh,coffee beans,Costa Rica,35,45,1575,FALSE,0
+11/8/2023,2,Riyadh,coffee beans,Guatemala,35,18,630,TRUE,317.9399742
+11/9/2023,50,Khobar,coffee beans,Ethiopian,45,48,2160,FALSE,0
+11/10/2023,9,Jeddah,coffee beans,Brazilian,30,49,1470,TRUE,383.3921913
+11/11/2023,37,Dammam,coffee beans,Colombian,40,5,200,FALSE,0
+11/12/2023,31,Jeddah,coffee beans,Guatemala,35,43,1505,TRUE,468.8559817
+11/13/2023,56,Jeddah,coffee beans,Ethiopian,45,39,1755,TRUE,262.6870567
+11/14/2023,28,Khobar,coffee beans,Guatemala,35,41,1435,FALSE,0
+11/15/2023,32,Abha,coffee beans,Guatemala,35,24,840,TRUE,198.6471967
+11/16/2023,100,Dammam,coffee beans,Brazilian,30,45,1350,FALSE,0
+11/17/2023,29,Medina,coffee beans,Brazilian,30,6,180,FALSE,0
+11/18/2023,63,Riyadh,coffee beans,Ethiopian,45,18,810,FALSE,0
+11/19/2023,27,Riyadh,coffee beans,Brazilian,30,12,360,TRUE,55.87671391
+11/20/2023,27,Tabuk,coffee beans,Costa Rica,35,16,560,TRUE,379.3553821
+11/21/2023,96,Buraidah,coffee beans,Brazilian,30,39,1170,TRUE,327.6783431
+11/22/2023,97,Hail,coffee beans,Colombian,40,24,960,TRUE,260.7439164
+11/23/2023,44,Dammam,coffee beans,Brazilian,30,4,120,TRUE,199.6140763
+11/24/2023,2,Riyadh,coffee beans,Ethiopian,45,32,1440,TRUE,452.9243176
+11/25/2023,94,Abha,coffee beans,Costa Rica,35,21,735,TRUE,347.1344435
+11/26/2023,92,Riyadh,coffee beans,Guatemala,35,18,630,TRUE,451.5279981
+11/27/2023,97,Mecca,coffee beans,Guatemala,35,41,1435,FALSE,0
+11/28/2023,7,Riyadh,coffee beans,Costa Rica,35,30,1050,TRUE,13.92993908
+11/29/2023,7,Medina,coffee beans,Brazilian,30,28,840,TRUE,324.2827236
+11/30/2023,82,Riyadh,coffee beans,Guatemala,35,6,210,TRUE,289.5310387
+12/1/2023,30,Jeddah,coffee beans,Costa Rica,35,41,1435,TRUE,37.25754386
+12/2/2023,44,Tabuk,coffee beans,Costa Rica,35,9,315,FALSE,0
+12/3/2023,5,Khobar,coffee beans,Colombian,40,24,960,TRUE,278.2725613
+12/4/2023,33,Buraidah,coffee beans,Costa Rica,35,7,245,TRUE,46.85721805
+12/5/2023,92,Buraidah,coffee beans,Ethiopian,45,22,990,FALSE,0
+12/6/2023,97,Riyadh,coffee beans,Colombian,40,12,480,FALSE,0
+12/7/2023,80,Mecca,coffee beans,Colombian,40,8,320,TRUE,315.2184478
+12/8/2023,28,Jeddah,coffee beans,Guatemala,35,15,525,TRUE,497.501727
+12/9/2023,47,Mecca,coffee beans,Brazilian,30,22,660,TRUE,361.892478
+12/10/2023,6,Medina,coffee beans,Costa Rica,35,37,1295,FALSE,0
+12/11/2023,94,Dammam,coffee beans,Costa Rica,35,44,1540,FALSE,0
+12/12/2023,97,Dammam,coffee beans,Brazilian,30,40,1200,TRUE,231.3914599
+12/13/2023,30,Riyadh,coffee beans,Costa Rica,35,38,1330,TRUE,163.5815006
+12/14/2023,54,Riyadh,coffee beans,Ethiopian,45,27,1215,FALSE,0
+12/15/2023,74,Abha,coffee beans,Guatemala,35,21,735,TRUE,311.0253154
+12/16/2023,100,Mecca,coffee beans,Colombian,40,1,40,FALSE,0
+12/17/2023,42,Buraidah,coffee beans,Costa Rica,35,39,1365,FALSE,0
+12/18/2023,72,Buraidah,coffee beans,Colombian,40,23,920,FALSE,0
+12/19/2023,95,Abha,coffee beans,Ethiopian,45,3,135,TRUE,20.38161651
+12/20/2023,16,Mecca,coffee beans,Brazilian,30,30,900,TRUE,155.9430184
+12/21/2023,80,Hail,coffee beans,Brazilian,30,6,180,TRUE,400.7289553
+12/22/2023,31,Buraidah,coffee beans,Brazilian,30,49,1470,FALSE,0
+12/23/2023,94,Mecca,coffee beans,Guatemala,35,5,175,TRUE,210.0553981
+12/24/2023,85,Riyadh,coffee beans,Brazilian,30,3,90,TRUE,31.59483899
+12/25/2023,91,Hail,coffee beans,Brazilian,30,45,1350,FALSE,0
+12/26/2023,67,Tabuk,coffee beans,Costa Rica,35,17,595,FALSE,0
+12/27/2023,96,Riyadh,coffee beans,Ethiopian,45,8,360,FALSE,0
+12/28/2023,46,Khobar,coffee beans,Costa Rica,35,30,1050,TRUE,15.88612587
+12/29/2023,35,Khobar,coffee beans,Colombian,40,37,1480,FALSE,0
+12/30/2023,97,Mecca,coffee beans,Ethiopian,45,29,1305,TRUE,324.1645074
+12/31/2023,68,Buraidah,coffee beans,Costa Rica,35,33,1155,FALSE,0
+1/1/2024,31,Jeddah,coffee beans,Guatemala,35,33,1155,TRUE,73.5044349
+1/2/2024,91,Khobar,coffee beans,Costa Rica,35,8,280,FALSE,0
+1/3/2024,44,Khobar,coffee beans,Costa Rica,35,20,700,TRUE,155.2543132
+1/4/2024,99,Riyadh,coffee beans,Guatemala,35,15,525,FALSE,0
+1/5/2024,42,Jeddah,coffee beans,Costa Rica,35,1,35,FALSE,0
+1/6/2024,12,Tabuk,coffee beans,Colombian,40,16,640,TRUE,122.9441455
+1/7/2024,37,Dammam,coffee beans,Guatemala,35,17,595,TRUE,418.59553
+1/8/2024,15,Mecca,coffee beans,Guatemala,35,9,315,TRUE,41.3631929
+1/9/2024,33,Khobar,coffee beans,Guatemala,35,17,595,FALSE,0
+1/10/2024,36,Dammam,coffee beans,Colombian,40,6,240,FALSE,0
+1/11/2024,24,Dammam,coffee beans,Colombian,40,5,200,FALSE,0
+1/12/2024,39,Hail,coffee beans,Guatemala,35,15,525,FALSE,0
+1/13/2024,4,Khobar,coffee beans,Guatemala,35,33,1155,TRUE,237.9143167
+1/14/2024,50,Medina,coffee beans,Brazilian,30,40,1200,FALSE,0
+1/15/2024,84,Riyadh,coffee beans,Ethiopian,45,47,2115,TRUE,301.3351422
+1/16/2024,24,Buraidah,coffee beans,Colombian,40,19,760,TRUE,289.7861899
+1/17/2024,92,Jeddah,coffee beans,Guatemala,35,31,1085,TRUE,348.460478
+1/18/2024,91,Medina,coffee beans,Colombian,40,25,1000,TRUE,383.6306699
+1/19/2024,46,Abha,coffee beans,Colombian,40,27,1080,TRUE,231.9936091
+1/20/2024,50,Hail,coffee beans,Ethiopian,45,38,1710,FALSE,0
+1/21/2024,56,Medina,coffee beans,Colombian,40,44,1760,FALSE,0
+1/22/2024,18,Abha,coffee beans,Colombian,40,32,1280,FALSE,0
+1/23/2024,63,Khobar,coffee beans,Ethiopian,45,38,1710,FALSE,0
+1/24/2024,22,Jeddah,coffee beans,Colombian,40,31,1240,FALSE,0
+1/25/2024,76,Dammam,coffee beans,Ethiopian,45,15,675,TRUE,85.65693067
+1/26/2024,2,Jeddah,coffee beans,Guatemala,35,16,560,TRUE,421.2339491
+1/27/2024,95,Dammam,coffee beans,Brazilian,30,4,120,TRUE,480.2827366
+1/28/2024,77,Mecca,coffee beans,Ethiopian,45,34,1530,FALSE,0
+1/29/2024,48,Mecca,coffee beans,Guatemala,35,48,1680,TRUE,325.0036924
+1/30/2024,98,Jeddah,coffee beans,Brazilian,30,25,750,TRUE,489.3891644
+1/31/2024,46,Medina,coffee beans,Colombian,40,42,1680,FALSE,0
+2/1/2024,12,Riyadh,coffee beans,Brazilian,30,22,660,FALSE,0
+2/2/2024,41,Abha,coffee beans,Ethiopian,45,13,585,TRUE,163.9239521
+2/3/2024,59,Hail,coffee beans,Colombian,40,48,1920,TRUE,324.2689802
+2/4/2024,29,Khobar,coffee beans,Costa Rica,35,30,1050,FALSE,0
+2/5/2024,47,Mecca,coffee beans,Guatemala,35,24,840,FALSE,0
+2/6/2024,9,Dammam,coffee beans,Ethiopian,45,33,1485,TRUE,176.5737971
+2/7/2024,62,Mecca,coffee beans,Ethiopian,45,49,2205,TRUE,24.92475187
+2/8/2024,40,Riyadh,coffee beans,Brazilian,30,29,870,FALSE,0
+2/9/2024,25,Tabuk,coffee beans,Ethiopian,45,32,1440,FALSE,0
+2/10/2024,61,Jeddah,coffee beans,Guatemala,35,35,1225,FALSE,0
+2/11/2024,74,Abha,coffee beans,Costa Rica,35,32,1120,FALSE,0
+2/12/2024,100,Dammam,coffee beans,Guatemala,35,36,1260,TRUE,217.779005
+2/13/2024,10,Tabuk,coffee beans,Colombian,40,18,720,FALSE,0
+2/14/2024,82,Jeddah,coffee beans,Brazilian,30,14,420,FALSE,0
+2/15/2024,42,Buraidah,coffee beans,Ethiopian,45,37,1665,TRUE,294.323553
+2/16/2024,31,Mecca,coffee beans,Costa Rica,35,4,140,TRUE,401.2071042
+2/17/2024,88,Hail,coffee beans,Costa Rica,35,46,1610,TRUE,454.9056276
+2/18/2024,18,Dammam,coffee beans,Brazilian,30,29,870,FALSE,0
+2/19/2024,46,Hail,coffee beans,Guatemala,35,40,1400,FALSE,0
+2/20/2024,21,Jeddah,coffee beans,Costa Rica,35,10,350,FALSE,0
+2/21/2024,89,Hail,coffee beans,Colombian,40,28,1120,TRUE,265.1872881
+2/22/2024,65,Abha,coffee beans,Costa Rica,35,48,1680,TRUE,336.8944116
+2/23/2024,32,Hail,coffee beans,Colombian,40,17,680,TRUE,481.870198
+2/24/2024,64,Hail,coffee beans,Ethiopian,45,32,1440,FALSE,0
+2/25/2024,5,Tabuk,coffee beans,Ethiopian,45,9,405,TRUE,375.7609636
+2/26/2024,60,Abha,coffee beans,Ethiopian,45,12,540,FALSE,0
+2/27/2024,83,Medina,coffee beans,Costa Rica,35,47,1645,FALSE,0
+2/28/2024,100,Tabuk,coffee beans,Guatemala,35,13,455,TRUE,340.2105544
+2/29/2024,71,Hail,coffee beans,Brazilian,30,39,1170,TRUE,367.9845225
+3/1/2024,76,Jeddah,coffee beans,Costa Rica,35,35,1225,TRUE,335.5337765
+3/2/2024,33,Riyadh,coffee beans,Guatemala,35,21,735,FALSE,0
+3/3/2024,58,Buraidah,coffee beans,Guatemala,35,44,1540,TRUE,384.1330636
+3/4/2024,91,Mecca,coffee beans,Colombian,40,6,240,TRUE,130.0245147
+3/5/2024,99,Khobar,coffee beans,Colombian,40,2,80,FALSE,0
+3/6/2024,5,Buraidah,coffee beans,Brazilian,30,3,90,TRUE,235.2419359
+3/7/2024,66,Abha,coffee beans,Brazilian,30,5,150,FALSE,0
+3/8/2024,2,Buraidah,coffee beans,Ethiopian,45,27,1215,TRUE,350.404392
+3/9/2024,30,Medina,coffee beans,Ethiopian,45,3,135,FALSE,0
+3/10/2024,36,Khobar,coffee beans,Ethiopian,45,6,270,TRUE,65.80568543
+3/11/2024,1,Medina,coffee beans,Colombian,40,49,1960,FALSE,0
+3/12/2024,68,Riyadh,coffee beans,Costa Rica,35,7,245,TRUE,370.3280013
+3/13/2024,51,Abha,coffee beans,Ethiopian,45,18,810,FALSE,0
+3/14/2024,90,Medina,coffee beans,Brazilian,30,9,270,TRUE,151.1658774
+3/15/2024,57,Hail,coffee beans,Ethiopian,45,47,2115,FALSE,0
+3/16/2024,50,Abha,coffee beans,Costa Rica,35,47,1645,TRUE,269.0483081
+3/17/2024,79,Khobar,coffee beans,Brazilian,30,49,1470,TRUE,14.02795078
+3/18/2024,10,Khobar,coffee beans,Guatemala,35,29,1015,TRUE,63.19916067
+3/19/2024,15,Medina,coffee beans,Guatemala,35,29,1015,TRUE,285.0888951
+3/20/2024,95,Hail,coffee beans,Colombian,40,25,1000,FALSE,0
+3/21/2024,55,Hail,coffee beans,Colombian,40,28,1120,TRUE,86.67250044
+3/22/2024,1,Abha,coffee beans,Costa Rica,35,2,70,FALSE,0
+3/23/2024,61,Abha,coffee beans,Costa Rica,35,16,560,TRUE,37.32688697
+3/24/2024,43,Mecca,coffee beans,Costa Rica,35,13,455,TRUE,57.88038854
+3/25/2024,14,Dammam,coffee beans,Costa Rica,35,43,1505,FALSE,0
+3/26/2024,82,Riyadh,coffee beans,Costa Rica,35,48,1680,FALSE,0
+3/27/2024,90,Jeddah,coffee beans,Brazilian,30,13,390,TRUE,451.5907519
+3/28/2024,8,Mecca,coffee beans,Ethiopian,45,37,1665,TRUE,92.15602749
+3/29/2024,89,Hail,coffee beans,Guatemala,35,45,1575,TRUE,369.7208153
+3/30/2024,82,Buraidah,coffee beans,Brazilian,30,46,1380,TRUE,234.7920859
+3/31/2024,26,Medina,coffee beans,Colombian,40,5,200,TRUE,95.3691495
+4/1/2024,14,Riyadh,coffee beans,Costa Rica,35,40,1400,TRUE,392.8671563
+4/2/2024,98,Riyadh,coffee beans,Brazilian,30,1,30,TRUE,212.0177918
+4/3/2024,74,Medina,coffee beans,Colombian,40,17,680,TRUE,385.859625
+4/4/2024,43,Hail,coffee beans,Ethiopian,45,14,630,TRUE,291.6859042
+4/5/2024,52,Mecca,coffee beans,Brazilian,30,15,450,FALSE,0
+4/6/2024,69,Buraidah,coffee beans,Brazilian,30,15,450,FALSE,0
+4/7/2024,35,Abha,coffee beans,Costa Rica,35,24,840,TRUE,171.9748789
+4/8/2024,24,Jeddah,coffee beans,Guatemala,35,40,1400,TRUE,158.2542607
+4/9/2024,7,Dammam,coffee beans,Brazilian,30,9,270,FALSE,0
+4/10/2024,68,Riyadh,coffee beans,Colombian,40,26,1040,TRUE,379.1833503
+4/11/2024,46,Jeddah,coffee beans,Guatemala,35,41,1435,FALSE,0
+4/12/2024,83,Abha,coffee beans,Costa Rica,35,18,630,FALSE,0
+4/13/2024,86,Dammam,coffee beans,Ethiopian,45,19,855,FALSE,0
+4/14/2024,60,Khobar,coffee beans,Guatemala,35,41,1435,TRUE,159.1340425
+4/15/2024,80,Dammam,coffee beans,Colombian,40,21,840,TRUE,484.1299715
+4/16/2024,6,Riyadh,coffee beans,Guatemala,35,14,490,TRUE,140.0406439
+4/17/2024,14,Khobar,coffee beans,Guatemala,35,23,805,FALSE,0
+4/18/2024,82,Dammam,coffee beans,Brazilian,30,43,1290,TRUE,225.0225078
+4/19/2024,42,Mecca,coffee beans,Costa Rica,35,33,1155,FALSE,0
+4/20/2024,56,Hail,coffee beans,Brazilian,30,37,1110,FALSE,0
+4/21/2024,29,Hail,coffee beans,Ethiopian,45,48,2160,FALSE,0
+4/22/2024,61,Khobar,coffee beans,Ethiopian,45,22,990,TRUE,87.59782852
+4/23/2024,2,Dammam,coffee beans,Guatemala,35,21,735,TRUE,120.4528312
+4/24/2024,7,Riyadh,coffee beans,Ethiopian,45,7,315,TRUE,295.922111
+4/25/2024,15,Khobar,coffee beans,Guatemala,35,7,245,FALSE,0
+4/26/2024,20,Buraidah,coffee beans,Brazilian,30,9,270,TRUE,313.8331381
+4/27/2024,59,Hail,coffee beans,Brazilian,30,46,1380,FALSE,0
+4/28/2024,43,Hail,coffee beans,Guatemala,35,35,1225,TRUE,446.3393251
+4/29/2024,19,Dammam,coffee beans,Brazilian,30,18,540,FALSE,0
+4/30/2024,80,Tabuk,coffee beans,Guatemala,35,35,1225,FALSE,0
+5/1/2024,100,Mecca,coffee beans,Colombian,40,37,1480,TRUE,87.82616096
+5/2/2024,77,Buraidah,coffee beans,Ethiopian,45,40,1800,TRUE,311.1508362
+5/3/2024,37,Hail,coffee beans,Brazilian,30,30,900,FALSE,0
+5/4/2024,35,Dammam,coffee beans,Colombian,40,48,1920,TRUE,88.24282605
+5/5/2024,22,Buraidah,coffee beans,Brazilian,30,41,1230,FALSE,0
+5/6/2024,48,Mecca,coffee beans,Colombian,40,23,920,TRUE,123.967045
+5/7/2024,63,Buraidah,coffee beans,Brazilian,30,28,840,FALSE,0
+5/8/2024,78,Jeddah,coffee beans,Ethiopian,45,26,1170,FALSE,0
+5/9/2024,47,Khobar,coffee beans,Ethiopian,45,10,450,TRUE,498.3766527
+5/10/2024,63,Jeddah,coffee beans,Costa Rica,35,27,945,TRUE,467.8149044
+5/11/2024,98,Abha,coffee beans,Brazilian,30,16,480,TRUE,75.46803397
+5/12/2024,71,Mecca,coffee beans,Ethiopian,45,20,900,FALSE,0
+5/13/2024,8,Riyadh,coffee beans,Colombian,40,4,160,TRUE,141.4844095
+5/14/2024,57,Jeddah,coffee beans,Ethiopian,45,13,585,TRUE,456.9677389
+5/15/2024,2,Buraidah,coffee beans,Ethiopian,45,44,1980,TRUE,442.2195455
+5/16/2024,83,Riyadh,coffee beans,Ethiopian,45,11,495,TRUE,451.6701166
+5/17/2024,9,Riyadh,coffee beans,Colombian,40,45,1800,FALSE,0
+5/18/2024,60,Hail,coffee beans,Colombian,40,10,400,TRUE,101.7050206
+5/19/2024,86,Hail,coffee beans,Costa Rica,35,48,1680,TRUE,70.5647433
+5/20/2024,25,Riyadh,coffee beans,Brazilian,30,30,900,TRUE,284.0731367
+5/21/2024,39,Tabuk,coffee beans,Brazilian,30,22,660,TRUE,276.8198835
+5/22/2024,90,Dammam,coffee beans,Guatemala,35,1,35,FALSE,0
+5/23/2024,33,Medina,coffee beans,Guatemala,35,6,210,FALSE,0
+5/24/2024,58,Dammam,coffee beans,Guatemala,35,25,875,TRUE,198.7349021
+5/25/2024,75,Abha,coffee beans,Brazilian,30,25,750,TRUE,443.5891805
+5/26/2024,98,Hail,coffee beans,Guatemala,35,49,1715,FALSE,0
+5/27/2024,56,Riyadh,coffee beans,Guatemala,35,17,595,FALSE,0
+5/28/2024,86,Jeddah,coffee beans,Ethiopian,45,19,855,FALSE,0
+5/29/2024,49,Medina,coffee beans,Costa Rica,35,25,875,FALSE,0
+5/30/2024,55,Jeddah,coffee beans,Costa Rica,35,11,385,FALSE,0
+5/31/2024,51,Medina,coffee beans,Guatemala,35,35,1225,TRUE,205.5742327
+6/1/2024,47,Khobar,coffee beans,Guatemala,35,36,1260,TRUE,19.88778913
+6/2/2024,48,Tabuk,coffee beans,Costa Rica,35,41,1435,TRUE,239.8861329
+6/3/2024,44,Jeddah,coffee beans,Ethiopian,45,41,1845,FALSE,0
+6/4/2024,15,Mecca,coffee beans,Costa Rica,35,22,770,FALSE,0
+6/5/2024,96,Hail,coffee beans,Colombian,40,33,1320,TRUE,218.9227705
+6/6/2024,72,Tabuk,coffee beans,Colombian,40,48,1920,FALSE,0
+6/7/2024,4,Jeddah,coffee beans,Brazilian,30,5,150,FALSE,0
+6/8/2024,95,Khobar,coffee beans,Costa Rica,35,1,35,FALSE,0
+6/9/2024,68,Tabuk,coffee beans,Ethiopian,45,28,1260,TRUE,23.70962332
+6/10/2024,62,Riyadh,coffee beans,Ethiopian,45,37,1665,TRUE,230.5596555
+6/11/2024,48,Tabuk,coffee beans,Guatemala,35,44,1540,FALSE,0
+6/12/2024,53,Riyadh,coffee beans,Costa Rica,35,13,455,TRUE,239.2733437
+6/13/2024,10,Medina,coffee beans,Guatemala,35,2,70,TRUE,165.0216599
+6/14/2024,82,Riyadh,coffee beans,Guatemala,35,28,980,TRUE,318.7665584
+6/15/2024,28,Hail,coffee beans,Ethiopian,45,14,630,FALSE,0
+6/16/2024,17,Mecca,coffee beans,Guatemala,35,16,560,TRUE,198.3169241
+6/17/2024,67,Tabuk,coffee beans,Brazilian,30,29,870,TRUE,79.07994986
+6/18/2024,44,Dammam,coffee beans,Colombian,40,47,1880,FALSE,0
+6/19/2024,21,Hail,coffee beans,Costa Rica,35,27,945,FALSE,0
+6/20/2024,96,Riyadh,coffee beans,Costa Rica,35,39,1365,TRUE,99.57167982
+6/21/2024,13,Buraidah,coffee beans,Ethiopian,45,41,1845,TRUE,300.9620864
+6/22/2024,63,Dammam,coffee beans,Costa Rica,35,10,350,TRUE,115.1119964
+6/23/2024,93,Dammam,coffee beans,Guatemala,35,8,280,TRUE,241.4246004
+6/24/2024,93,Jeddah,coffee beans,Ethiopian,45,37,1665,FALSE,0
+6/25/2024,93,Medina,coffee beans,Colombian,40,47,1880,TRUE,384.5776949
+6/26/2024,89,Khobar,coffee beans,Brazilian,30,49,1470,TRUE,491.9961181
+6/27/2024,16,Khobar,coffee beans,Colombian,40,44,1760,TRUE,352.0383182
+6/28/2024,45,Riyadh,coffee beans,Costa Rica,35,34,1190,TRUE,498.7417207
+6/29/2024,26,Medina,coffee beans,Brazilian,30,34,1020,FALSE,0
+6/30/2024,35,Khobar,coffee beans,Colombian,40,26,1040,TRUE,163.3582693
+7/1/2024,12,Medina,coffee beans,Brazilian,30,17,510,TRUE,25.01548917
+7/2/2024,30,Buraidah,coffee beans,Colombian,40,5,200,TRUE,109.4561085
+7/3/2024,83,Tabuk,coffee beans,Ethiopian,45,45,2025,FALSE,0
+7/4/2024,10,Riyadh,coffee beans,Ethiopian,45,43,1935,FALSE,0
+7/5/2024,91,Jeddah,coffee beans,Ethiopian,45,24,1080,FALSE,0
+7/6/2024,81,Mecca,coffee beans,Colombian,40,41,1640,TRUE,477.2777833
+7/7/2024,97,Dammam,coffee beans,Colombian,40,46,1840,TRUE,254.2628026
+7/8/2024,13,Jeddah,coffee beans,Guatemala,35,44,1540,TRUE,286.9309134
+7/9/2024,73,Jeddah,coffee beans,Ethiopian,45,5,225,FALSE,0
+7/10/2024,19,Tabuk,coffee beans,Brazilian,30,39,1170,FALSE,0
+7/11/2024,27,Jeddah,coffee beans,Brazilian,30,42,1260,FALSE,0
+7/12/2024,69,Dammam,coffee beans,Colombian,40,43,1720,FALSE,0
+7/13/2024,32,Medina,coffee beans,Costa Rica,35,21,735,TRUE,224.7573051
+7/14/2024,100,Tabuk,coffee beans,Ethiopian,45,13,585,FALSE,0
+7/15/2024,17,Buraidah,coffee beans,Ethiopian,45,2,90,FALSE,0
+7/16/2024,74,Riyadh,coffee beans,Colombian,40,1,40,FALSE,0
+7/17/2024,97,Buraidah,coffee beans,Costa Rica,35,43,1505,FALSE,0
+7/18/2024,13,Abha,coffee beans,Guatemala,35,11,385,TRUE,53.85703722
+7/19/2024,81,Dammam,coffee beans,Colombian,40,40,1600,TRUE,422.5116812
+7/20/2024,49,Dammam,coffee beans,Brazilian,30,3,90,FALSE,0
+7/21/2024,48,Hail,coffee beans,Ethiopian,45,8,360,FALSE,0
+7/22/2024,73,Buraidah,coffee beans,Costa Rica,35,37,1295,TRUE,14.35047311
+7/23/2024,52,Tabuk,coffee beans,Ethiopian,45,44,1980,FALSE,0
+7/24/2024,31,Medina,coffee beans,Colombian,40,24,960,TRUE,220.3030074
+7/25/2024,89,Hail,coffee beans,Guatemala,35,6,210,FALSE,0
+7/26/2024,76,Abha,coffee beans,Ethiopian,45,10,450,FALSE,0
+7/27/2024,2,Abha,coffee beans,Costa Rica,35,40,1400,FALSE,0
+7/28/2024,38,Dammam,coffee beans,Costa Rica,35,35,1225,TRUE,280.2497289
+7/29/2024,50,Tabuk,coffee beans,Colombian,40,46,1840,TRUE,499.0064431
+7/30/2024,48,Medina,coffee beans,Brazilian,30,28,840,FALSE,0
+7/31/2024,65,Dammam,coffee beans,Colombian,40,49,1960,TRUE,169.6552707
+8/1/2024,95,Abha,coffee beans,Colombian,40,24,960,FALSE,0
+8/2/2024,34,Hail,coffee beans,Brazilian,30,43,1290,TRUE,43.93589295
+8/3/2024,4,Hail,coffee beans,Costa Rica,35,28,980,TRUE,312.1527563
+8/4/2024,85,Hail,coffee beans,Costa Rica,35,27,945,TRUE,119.2044095
+8/5/2024,42,Tabuk,coffee beans,Colombian,40,15,600,FALSE,0
+8/6/2024,41,Hail,coffee beans,Brazilian,30,3,90,FALSE,0
+8/7/2024,65,Riyadh,coffee beans,Brazilian,30,43,1290,TRUE,38.7206107
+8/8/2024,36,Khobar,coffee beans,Colombian,40,12,480,TRUE,148.137333
+8/9/2024,54,Mecca,coffee beans,Ethiopian,45,48,2160,FALSE,0
+8/10/2024,73,Dammam,coffee beans,Costa Rica,35,36,1260,FALSE,0
+8/11/2024,11,Dammam,coffee beans,Ethiopian,45,5,225,FALSE,0
+8/12/2024,82,Medina,coffee beans,Costa Rica,35,31,1085,FALSE,0
+8/13/2024,79,Riyadh,coffee beans,Ethiopian,45,7,315,TRUE,297.0758672
+8/14/2024,88,Mecca,coffee beans,Colombian,40,22,880,TRUE,394.0663133
+8/15/2024,73,Tabuk,coffee beans,Colombian,40,35,1400,FALSE,0
+8/16/2024,30,Medina,coffee beans,Guatemala,35,33,1155,TRUE,402.455851
+8/17/2024,43,Riyadh,coffee beans,Costa Rica,35,46,1610,TRUE,151.8595217
+8/18/2024,34,Khobar,coffee beans,Brazilian,30,8,240,FALSE,0
+8/19/2024,71,Buraidah,coffee beans,Brazilian,30,9,270,FALSE,0
+8/20/2024,36,Medina,coffee beans,Ethiopian,45,44,1980,TRUE,11.65938383
+8/21/2024,24,Khobar,coffee beans,Costa Rica,35,41,1435,FALSE,0
+8/22/2024,52,Abha,coffee beans,Brazilian,30,37,1110,FALSE,0
+8/23/2024,66,Abha,coffee beans,Guatemala,35,19,665,FALSE,0
+8/24/2024,36,Abha,coffee beans,Brazilian,30,21,630,TRUE,420.4321525
+8/25/2024,15,Riyadh,coffee beans,Guatemala,35,8,280,FALSE,0
+8/26/2024,28,Buraidah,coffee beans,Colombian,40,28,1120,TRUE,54.22491924
+8/27/2024,57,Mecca,coffee beans,Ethiopian,45,34,1530,TRUE,308.8515142
+8/28/2024,52,Hail,coffee beans,Guatemala,35,3,105,TRUE,469.8562484
+8/29/2024,60,Medina,coffee beans,Brazilian,30,42,1260,FALSE,0
+8/30/2024,72,Mecca,coffee beans,Brazilian,30,39,1170,FALSE,0
+8/31/2024,56,Abha,coffee beans,Costa Rica,35,46,1610,FALSE,0
+9/1/2024,84,Jeddah,coffee beans,Guatemala,35,32,1120,FALSE,0
+9/2/2024,21,Mecca,coffee beans,Costa Rica,35,28,980,TRUE,118.7340278
+9/3/2024,27,Dammam,coffee beans,Colombian,40,7,280,TRUE,109.1099846
+9/4/2024,19,Mecca,coffee beans,Ethiopian,45,22,990,TRUE,91.63415027
+9/5/2024,45,Dammam,coffee beans,Colombian,40,29,1160,FALSE,0
+9/6/2024,9,Hail,coffee beans,Ethiopian,45,49,2205,FALSE,0
+9/7/2024,16,Abha,coffee beans,Ethiopian,45,10,450,TRUE,289.109014
+9/8/2024,48,Tabuk,coffee beans,Costa Rica,35,30,1050,TRUE,33.63991892
+9/9/2024,31,Jeddah,coffee beans,Guatemala,35,19,665,FALSE,0
+9/10/2024,44,Jeddah,coffee beans,Guatemala,35,7,245,FALSE,0
+9/11/2024,10,Hail,coffee beans,Guatemala,35,1,35,TRUE,271.8887223
+9/12/2024,23,Medina,coffee beans,Guatemala,35,18,630,FALSE,0
+9/13/2024,74,Tabuk,coffee beans,Brazilian,30,40,1200,FALSE,0
+9/14/2024,9,Abha,coffee beans,Guatemala,35,46,1610,FALSE,0
+9/15/2024,87,Mecca,coffee beans,Colombian,40,45,1800,TRUE,139.3099214
+9/16/2024,31,Buraidah,coffee beans,Brazilian,30,27,810,FALSE,0
+9/17/2024,55,Tabuk,coffee beans,Colombian,40,46,1840,TRUE,182.6469362
+9/18/2024,82,Abha,coffee beans,Colombian,40,40,1600,TRUE,298.0610322
+9/19/2024,64,Medina,coffee beans,Costa Rica,35,34,1190,FALSE,0
+9/20/2024,44,Khobar,coffee beans,Costa Rica,35,14,490,TRUE,183.7677948
+9/21/2024,85,Mecca,coffee beans,Costa Rica,35,42,1470,TRUE,93.74996046
+9/22/2024,66,Medina,coffee beans,Colombian,40,19,760,FALSE,0
+9/23/2024,62,Tabuk,coffee beans,Costa Rica,35,39,1365,FALSE,0
+9/24/2024,59,Medina,coffee beans,Costa Rica,35,45,1575,TRUE,415.5452371
+9/25/2024,88,Mecca,coffee beans,Guatemala,35,23,805,FALSE,0
+9/26/2024,99,Mecca,coffee beans,Brazilian,30,5,150,FALSE,0
+9/27/2024,59,Tabuk,coffee beans,Brazilian,30,23,690,TRUE,28.47604375
+9/28/2024,11,Hail,coffee beans,Guatemala,35,29,1015,TRUE,52.78034288
+9/29/2024,47,Dammam,coffee beans,Colombian,40,48,1920,TRUE,348.3998004
+9/30/2024,90,Buraidah,coffee beans,Ethiopian,45,42,1890,FALSE,0
+10/1/2024,73,Jeddah,coffee beans,Guatemala,35,14,490,FALSE,0
+10/2/2024,18,Hail,coffee beans,Costa Rica,35,12,420,TRUE,252.9267835
+10/3/2024,84,Hail,coffee beans,Ethiopian,45,23,1035,FALSE,0
+10/4/2024,31,Riyadh,coffee beans,Ethiopian,45,34,1530,FALSE,0
+10/5/2024,10,Abha,coffee beans,Costa Rica,35,9,315,TRUE,215.1432547
+10/6/2024,60,Abha,coffee beans,Colombian,40,25,1000,TRUE,315.8972993
+10/7/2024,7,Buraidah,coffee beans,Costa Rica,35,42,1470,TRUE,48.27503557
+10/8/2024,79,Khobar,coffee beans,Colombian,40,16,640,FALSE,0
+10/9/2024,38,Jeddah,coffee beans,Costa Rica,35,38,1330,TRUE,91.0425373
+10/10/2024,81,Khobar,coffee beans,Ethiopian,45,44,1980,TRUE,406.7827589
+10/11/2024,66,Medina,coffee beans,Brazilian,30,11,330,TRUE,357.7070207
+10/12/2024,28,Medina,coffee beans,Costa Rica,35,24,840,TRUE,166.1108241
+10/13/2024,45,Khobar,coffee beans,Costa Rica,35,32,1120,FALSE,0
+10/14/2024,80,Hail,coffee beans,Costa Rica,35,7,245,TRUE,158.5664427
+10/15/2024,90,Tabuk,coffee beans,Brazilian,30,11,330,FALSE,0
+10/16/2024,81,Khobar,coffee beans,Ethiopian,45,27,1215,TRUE,68.24420583
+10/17/2024,8,Dammam,coffee beans,Costa Rica,35,1,35,TRUE,50.95304182
+10/18/2024,98,Dammam,coffee beans,Colombian,40,16,640,TRUE,200.8962982
+10/19/2024,56,Buraidah,coffee beans,Guatemala,35,8,280,FALSE,0
+10/20/2024,71,Medina,coffee beans,Ethiopian,45,34,1530,FALSE,0
+10/21/2024,96,Riyadh,coffee beans,Ethiopian,45,21,945,FALSE,0
+10/22/2024,7,Hail,coffee beans,Costa Rica,35,4,140,FALSE,0
+10/23/2024,21,Medina,coffee beans,Costa Rica,35,5,175,TRUE,31.92912379
+10/24/2024,2,Medina,coffee beans,Ethiopian,45,7,315,TRUE,232.2609931
+10/25/2024,47,Jeddah,coffee beans,Brazilian,30,16,480,FALSE,0
+10/26/2024,94,Hail,coffee beans,Guatemala,35,41,1435,TRUE,137.2645471
+10/27/2024,75,Buraidah,coffee beans,Brazilian,30,4,120,FALSE,0
+10/28/2024,1,Mecca,coffee beans,Brazilian,30,25,750,TRUE,257.9991829
+10/29/2024,80,Riyadh,coffee beans,Colombian,40,37,1480,TRUE,483.1698395
+10/30/2024,29,Mecca,coffee beans,Ethiopian,45,19,855,TRUE,107.3433485
+10/31/2024,35,Hail,coffee beans,Costa Rica,35,46,1610,TRUE,377.5692384
+11/1/2024,26,Mecca,coffee beans,Brazilian,30,48,1440,FALSE,0
+11/2/2024,85,Tabuk,coffee beans,Brazilian,30,11,330,TRUE,405.262115
+11/3/2024,72,Abha,coffee beans,Colombian,40,40,1600,FALSE,0
+11/4/2024,75,Khobar,coffee beans,Colombian,40,20,800,FALSE,0
+11/5/2024,45,Medina,coffee beans,Colombian,40,43,1720,TRUE,47.81383528
+11/6/2024,16,Hail,coffee beans,Costa Rica,35,39,1365,FALSE,0
+11/7/2024,2,Jeddah,coffee beans,Ethiopian,45,46,2070,TRUE,56.84458057
+11/8/2024,57,Dammam,coffee beans,Costa Rica,35,1,35,FALSE,0
+11/9/2024,95,Medina,coffee beans,Ethiopian,45,48,2160,FALSE,0
+11/10/2024,13,Riyadh,coffee beans,Brazilian,30,32,960,TRUE,447.9753781
+11/11/2024,14,Jeddah,coffee beans,Colombian,40,11,440,TRUE,141.1486402
+11/12/2024,25,Jeddah,coffee beans,Colombian,40,31,1240,FALSE,0
+11/13/2024,77,Hail,coffee beans,Brazilian,30,20,600,TRUE,445.2695427
+11/14/2024,58,Hail,coffee beans,Guatemala,35,26,910,FALSE,0
+11/15/2024,82,Buraidah,coffee beans,Brazilian,30,26,780,TRUE,402.6464455
+11/16/2024,29,Abha,coffee beans,Brazilian,30,39,1170,TRUE,377.3279057
+11/17/2024,66,Medina,coffee beans,Colombian,40,14,560,FALSE,0
+11/18/2024,69,Abha,coffee beans,Brazilian,30,16,480,FALSE,0
+11/19/2024,63,Riyadh,coffee beans,Colombian,40,33,1320,FALSE,0
+11/20/2024,34,Riyadh,coffee beans,Ethiopian,45,24,1080,FALSE,0
+11/21/2024,6,Buraidah,coffee beans,Guatemala,35,48,1680,TRUE,125.2403292
+11/22/2024,97,Medina,coffee beans,Ethiopian,45,13,585,TRUE,375.0700012
+11/23/2024,48,Dammam,coffee beans,Colombian,40,30,1200,TRUE,196.1971541
+11/24/2024,45,Hail,coffee beans,Costa Rica,35,3,105,TRUE,29.47215134
+11/25/2024,63,Abha,coffee beans,Costa Rica,35,20,700,FALSE,0
+11/26/2024,95,Hail,coffee beans,Colombian,40,23,920,TRUE,483.1999877
+11/27/2024,80,Buraidah,coffee beans,Colombian,40,49,1960,TRUE,471.7399886
+11/28/2024,27,Jeddah,coffee beans,Costa Rica,35,8,280,FALSE,0
+11/29/2024,56,Mecca,coffee beans,Brazilian,30,19,570,TRUE,132.4611403
+11/30/2024,48,Mecca,coffee beans,Colombian,40,19,760,FALSE,0
+12/1/2024,17,Khobar,coffee beans,Brazilian,30,49,1470,TRUE,114.1804525
+12/2/2024,16,Khobar,coffee beans,Colombian,40,29,1160,FALSE,0
+12/3/2024,63,Hail,coffee beans,Costa Rica,35,18,630,FALSE,0
+12/4/2024,75,Abha,coffee beans,Ethiopian,45,43,1935,TRUE,86.1363065
+12/5/2024,79,Mecca,coffee beans,Costa Rica,35,7,245,TRUE,145.2578876
+12/6/2024,9,Riyadh,coffee beans,Ethiopian,45,47,2115,FALSE,0
+12/7/2024,76,Mecca,coffee beans,Brazilian,30,36,1080,TRUE,323.3909174
+12/8/2024,10,Abha,coffee beans,Colombian,40,42,1680,TRUE,148.405739
+12/9/2024,90,Abha,coffee beans,Guatemala,35,17,595,TRUE,355.9681535
+12/10/2024,89,Buraidah,coffee beans,Costa Rica,35,29,1015,FALSE,0
+12/11/2024,23,Khobar,coffee beans,Costa Rica,35,17,595,TRUE,291.6565067
+12/12/2024,81,Riyadh,coffee beans,Costa Rica,35,5,175,TRUE,336.9592463
+12/13/2024,57,Abha,coffee beans,Guatemala,35,20,700,FALSE,0
+12/14/2024,62,Medina,coffee beans,Brazilian,30,3,90,FALSE,0
+12/15/2024,97,Jeddah,coffee beans,Brazilian,30,35,1050,FALSE,0
+12/16/2024,60,Jeddah,coffee beans,Costa Rica,35,21,735,TRUE,57.6946233
+12/17/2024,32,Abha,coffee beans,Costa Rica,35,45,1575,FALSE,0
+12/18/2024,85,Mecca,coffee beans,Brazilian,30,43,1290,TRUE,229.2561283
+12/19/2024,22,Riyadh,coffee beans,Ethiopian,45,13,585,TRUE,150.8623954
+12/20/2024,82,Mecca,coffee beans,Costa Rica,35,23,805,FALSE,0
+12/21/2024,22,Jeddah,coffee beans,Costa Rica,35,15,525,TRUE,115.3957847
+12/22/2024,72,Khobar,coffee beans,Colombian,40,43,1720,TRUE,292.6416839
+12/23/2024,83,Jeddah,coffee beans,Brazilian,30,4,120,FALSE,0
+12/24/2024,49,Abha,coffee beans,Brazilian,30,28,840,FALSE,0
+12/25/2024,20,Hail,coffee beans,Costa Rica,35,46,1610,FALSE,0
+12/26/2024,4,Hail,coffee beans,Colombian,40,26,1040,FALSE,0
+12/27/2024,63,Mecca,coffee beans,Colombian,40,10,400,FALSE,0
+12/28/2024,39,Abha,coffee beans,Costa Rica,35,47,1645,FALSE,0
+12/29/2024,57,Tabuk,coffee beans,Ethiopian,45,3,135,TRUE,454.0481267
+12/30/2024,50,Medina,coffee beans,Brazilian,30,33,990,TRUE,175.6618917
